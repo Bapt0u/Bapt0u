@@ -4,7 +4,7 @@
 
 ## About me 
 
-<img align="right" alt=":happy noise:" src="vaultboy.png" width=100 height=100>  
+<img align="right" alt=":happy noise:" src="vaultboy.png" width=120 height=100>  
 
 - French - 1999  
 - Student [@Lyon_Ynov_Campus](https://www.ynov.com/campus/lyon/)  
