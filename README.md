@@ -8,5 +8,5 @@
 
 - French - 1999  
 - Student [@Lyon_Ynov_Campus](https://www.ynov.com/campus/lyon/)  
-- Apprenticeship [@Cheops Tehcnology](https://www.cheops.fr/fr) as Windows administrator  
+- Apprenticeship as Windows administrator  
 - Are you guys seriously opening your sources? @_@  
