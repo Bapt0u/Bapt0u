@@ -1,11 +1,27 @@
-# Hello there :wave:
-![badge1](https://img.shields.io/badge/RTFM-In%20progress-blue?style=flat&logo=audacity)
+# Hello, mate :wave:
 
-## About me 
+```yml
+- name: Self-description
+  hosts: Bapt0u
+  vars:
+    nationality: French
+    age: 24
+  tasks:
+    - name: Working on automating stuff and administrating tools
+      community.work:
+        state: Present
+      register: result
+      until: result.timeSpendWorking + age == retirement.age
+      delay: 1y    
+```
 
-<img align="right" alt=":happy noise:" src="vaultboy.png" width=120 height=100>  
+<img align="right" alt=":happy noise:" src="vaultboy.png" width='240'>  
 
-- French - 1999  
-- ~Student~ Studied [@Lyon_Ynov_Campus](https://www.ynov.com/campus/lyon/)  
-- Automating stuff and administrating tools    
-- For sure it'll be grand :sparkles:   
+## Technologies & Tools
+
+- Ansible/AWX
+- Vault by Hashicorp
+- Python/Golang
+- Windows Server administration
+- Debian/Centos administration
+- ![badge1](https://img.shields.io/badge/RTFM-In%20progress-blue?style=flat&logo=bookstack)
