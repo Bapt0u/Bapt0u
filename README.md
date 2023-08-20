@@ -9,10 +9,9 @@
   tasks:
     - name: Working on automating stuff and administrating tools
       community.work:
-        state: Present
+        state: learning
       register: result
-      until: result.timeSpendWorking + age == retirement.age
-      delay: 1y    
+      until: result.state is "bored"    
 ```
 
 <img align="right" alt=":happy noise:" src="vaultboy.png" width='240'>  
